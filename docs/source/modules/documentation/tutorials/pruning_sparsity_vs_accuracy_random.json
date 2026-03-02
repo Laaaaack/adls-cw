@@ -1,0 +1,38 @@
+[
+  {
+    "sparsity": 0.1,
+    "accuracy": 0.8338
+  },
+  {
+    "sparsity": 0.2,
+    "accuracy": 0.81524
+  },
+  {
+    "sparsity": 0.3,
+    "accuracy": 0.79364
+  },
+  {
+    "sparsity": 0.4,
+    "accuracy": 0.76512
+  },
+  {
+    "sparsity": 0.5,
+    "accuracy": 0.61688
+  },
+  {
+    "sparsity": 0.6,
+    "accuracy": 0.5094
+  },
+  {
+    "sparsity": 0.7,
+    "accuracy": 0.50052
+  },
+  {
+    "sparsity": 0.8,
+    "accuracy": 0.50072
+  },
+  {
+    "sparsity": 0.9,
+    "accuracy": 0.4984
+  }
+]
